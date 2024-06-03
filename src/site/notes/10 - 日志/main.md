@@ -3,4 +3,4 @@
 ---
 
 
-[主页链接](https://main--deluxe-twilight-8920c2.netlify.app/)
+[主页链接](https://github.com/quannfa/obsidian-share/blob/master/src/site/notes/)
