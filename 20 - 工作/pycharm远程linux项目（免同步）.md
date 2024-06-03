@@ -5,6 +5,12 @@ share: true
   
 # linux通过samba共享文件夹  
   
+sudo vi /etc/samba/smb.conf  
+  
+![](../assets/Pasted%20image%2020240603171216.png)  
+  
+sudo service smbd restart  
+  
 # windows映射网络驱动器  
   
 在linux的IP地址下找到要共享的文件夹，创建映射网络驱动器  
